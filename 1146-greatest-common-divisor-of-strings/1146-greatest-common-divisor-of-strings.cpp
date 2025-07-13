@@ -1,19 +1,13 @@
 class Solution {
 public:
     int gcd(int x, int y){
-        if( x == 0){
-            return y;
+        while(y != 0){
+            int temp = x%y;
+            x = y;
+            y = temp;
         }
 
-        if(y == 0){
-            return x;
-        }
-
-        if(x > y){
-            return gcd(x%y, y);
-        }
-
-        return gcd(y%x, x);
+        return x;
     }
     string gcdOfStrings(string str1, string str2) {
         
