@@ -10,8 +10,8 @@ public:
             auto it = umap.find(k - nums[i]);
             if(it != umap.end()){
                 num_ops++;
-                it->second -= 1;
-                if(it->second == 0){
+                // it->second -= 1;
+                if(--it->second == 0){
                     umap.erase(it);
                 }
             }  else {
