@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ankitrosh/leetcode_75/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/ankitrosh/leetcode_75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitrosh/leetcode_75/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/ankitrosh/leetcode_75/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitrosh/leetcode_75/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankitrosh/leetcode_75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitrosh/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankitrosh/leetcode_75/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/ankitrosh/leetcode_75/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitrosh/leetcode_75/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/ankitrosh/leetcode_75/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
