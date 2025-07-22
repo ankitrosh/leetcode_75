@@ -1,6 +1,7 @@
 class RecentCounter {
 public:
     vector<int> req;
+  
     RecentCounter() {
         
     }
@@ -10,10 +11,10 @@ public:
         
         int n = req.size();
         int count =0;
-        for(int i = n-1; i>=0; i--){
-            if(req[i] >= t- 3000){
+        for(int i = n-1; i>=0 && req[i] >= t - 3000; i--){
+            
                 count++;
-            }
+            
         }
         return count;
     }
