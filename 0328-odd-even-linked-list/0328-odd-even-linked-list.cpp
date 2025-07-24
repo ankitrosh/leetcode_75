@@ -11,41 +11,60 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
+        // if(head == NULL || head->next == NULL){
+        //     return head;
+        // }
+        // ListNode* curr = head;
+        // ListNode* res = new ListNode(curr->val, NULL);
+        // ListNode* temp = res;
+        // while(curr != NULL && curr->next != NULL){
+            
+        //     curr = curr->next->next;
+        //     if(curr){
+        //         res->next = new ListNode(curr->val, NULL);
+        //         res= res->next;
+        //     }
+            
+        // }
+        // curr = head->next;
+        // res->next = new ListNode(curr->val, NULL);
+        // res = res->next;
+        // while(curr != NULL && curr->next != NULL){
+        //     cout << curr->val << endl;
+        //     curr = curr->next->next;
+        //     if(curr){
+        //         res->next = new ListNode(curr->val, NULL);
+        //         res= res->next;
+        //     }
+        // }
+
+        
+        
+        // return temp;
+
         if(head == NULL || head->next == NULL){
             return head;
         }
         ListNode* curr = head;
-        ListNode* res = new ListNode(curr->val, NULL);
-        ListNode* temp = res;
-        while(curr != NULL && curr->next != NULL){
-            // cout << res->val << endl;
-            // cout << curr->val << endl;
-            // res->next = curr->next->next;
-            
-            // res = res->next;
-            curr = curr->next->next;
-            if(curr){
-                res->next = new ListNode(curr->val, NULL);
-                res= res->next;
-            }
-            
-        }
-        curr = head->next;
-        res->next = new ListNode(curr->val, NULL);
-        res = res->next;
-        while(curr != NULL && curr->next != NULL){
-            cout << curr->val << endl;
-            curr = curr->next->next;
-            if(curr){
-                res->next = new ListNode(curr->val, NULL);
-                res= res->next;
-            }
-        }
+        ListNode* next = head->next;
+        ListNode* temp = head->next;
 
 
-        
-        
-        return temp;
+        while(next != NULL && next->next != NULL){
+
+            curr->next = next->next;
+            curr = curr->next;
+
+            next->next = next->next->next;
+            
+            
+
+            next = next->next;
+        }
+
+        curr->next = temp;
+
+        return head;
 
     }
 };
