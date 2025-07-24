@@ -14,13 +14,14 @@ public:
         vector<int> twinSums;
 
         ListNode* curr = head;
-        int n =0;
         while(curr != NULL){
             twinSums.push_back(curr->val);
             curr = curr->next;
-            n++;
 
         }
+        
+        int n =twinSums.size();
+
         int res = twinSums[0] + twinSums[n-1];
         for(int i = 1; i < n/2; i++){
             res = max(res, twinSums[i] + twinSums[n-i-1]);
