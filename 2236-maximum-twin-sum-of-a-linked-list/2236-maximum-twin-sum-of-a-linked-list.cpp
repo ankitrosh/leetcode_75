@@ -14,26 +14,16 @@ public:
         vector<int> twinSums;
 
         ListNode* curr = head;
-        ListNode* prev = NULL;
-        ListNode* temp = NULL;
-
+        int n =0;
         while(curr != NULL){
             twinSums.push_back(curr->val);
-            temp = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = temp;
+            curr = curr->next;
+            n++;
 
         }
-        int i = 0;
-        while(prev != NULL){
-            twinSums[i] += prev->val;
-            prev = prev->next;
-            i++;
-        }
-        int res = twinSums[0];
-        for(int j = 1; j < i; j++){
-            res = max(res, twinSums[j]);
+        int res = twinSums[0] + twinSums[n-1];
+        for(int i = 1; i < n/2; i++){
+            res = max(res, twinSums[i] + twinSums[n-i-1]);
         }
         return res;
     }
