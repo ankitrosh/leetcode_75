@@ -14,21 +14,11 @@ public:
         vector<int> twinSums;
 
         ListNode* curr = head;
-        int n = 0;
-        while(curr != NULL){
-            twinSums.push_back(curr->val);
-            n++;
-            curr = curr->next;
-        }
-
-        // reverse the LL
-
-        curr = head;
         ListNode* prev = NULL;
         ListNode* temp = NULL;
 
         while(curr != NULL){
-
+            twinSums.push_back(curr->val);
             temp = curr->next;
             curr->next = prev;
             prev = curr;
@@ -42,7 +32,7 @@ public:
             i++;
         }
         int res = twinSums[0];
-        for(int j = 1; j < n; j++){
+        for(int j = 1; j < i; j++){
             res = max(res, twinSums[j]);
         }
         return res;
