@@ -28,7 +28,6 @@ public:
                 TreeNode* node = q.front();
                 
                 q.pop_front();
-                cout << node->val << " ";
                 if(node->left){
                     q.push_back(node->left);
 
@@ -39,7 +38,6 @@ public:
                 }
             }
 
-            cout << endl;
             
         }
 
