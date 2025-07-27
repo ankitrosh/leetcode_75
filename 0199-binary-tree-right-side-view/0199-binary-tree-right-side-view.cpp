@@ -17,26 +17,27 @@ public:
         if(!root){
             return rightView;
         }
-        deque<TreeNode*> q;
+        queue<TreeNode*> q;
 
-        q.push_front(root);
+        q.push(root);
         while(!q.empty()){
             int len = q.size();
-            TreeNode* rightNode = q.back();
-            rightView.push_back(rightNode->val);
+            TreeNode*  node = NULL;
             for(int i=0; i < len; i++){
-                TreeNode* node = q.front();
+                node = q.front();
                 
-                q.pop_front();
+                q.pop();
                 if(node->left){
-                    q.push_back(node->left);
+                    q.push(node->left);
 
                 }
 
                 if(node->right){
-                    q.push_back(node->right);
+                    q.push(node->right);
                 }
             }
+
+            rightView.push_back(node->val);
 
             
         }
