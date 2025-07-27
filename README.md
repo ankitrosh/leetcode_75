@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ankitrosh/leetcode_75/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0543-diameter-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ankitrosh/leetcode_75/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0543-diameter-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -130,9 +132,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ankitrosh/leetcode_75/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0543-diameter-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ankitrosh/leetcode_75/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
