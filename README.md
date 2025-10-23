@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankitrosh/leetcode_75/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ankitrosh/leetcode_75/tree/master/0014-longest-common-prefix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitrosh/leetcode_75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ankitrosh/leetcode_75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ankitrosh/leetcode_75/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ankitrosh/leetcode_75/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/ankitrosh/leetcode_75/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitrosh/leetcode_75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ankitrosh/leetcode_75/tree/master/0392-is-subsequence) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/ankitrosh/leetcode_75/tree/master/2413-smallest-number-in-infinite-set) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ankitrosh/leetcode_75/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
