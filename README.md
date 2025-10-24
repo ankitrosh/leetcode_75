@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankitrosh/leetcode_75/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ankitrosh/leetcode_75/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ankitrosh/leetcode_75/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitrosh/leetcode_75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ankitrosh/leetcode_75/tree/master/0392-is-subsequence) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankitrosh/leetcode_75/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/ankitrosh/leetcode_75/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ankitrosh/leetcode_75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
