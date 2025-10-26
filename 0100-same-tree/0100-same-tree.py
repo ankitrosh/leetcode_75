@@ -61,22 +61,7 @@ class Solution:
 
         if p.val != q.val:
             return False
-        lval = True
-        if p.left != None and q.left != None:
-            lval = self.isSameTree(p.left,q.left)
-        elif p.left == None and q.left == None:
-            lval = True
-        else:
-            lval = False
-
-        rval = True
-        if p.right != None and q.right != None:
-            rval = self.isSameTree(p.right,q.right)
-        elif p.right == None and q.right == None:
-            rval = True
-        else:
-            rval = False
         
-        return lval and rval
+        return self.isSameTree(p.left,q.left) and self.isSameTree(p.right,q.right)
 
 
