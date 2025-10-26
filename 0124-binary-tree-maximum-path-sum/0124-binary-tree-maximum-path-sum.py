@@ -22,9 +22,7 @@ class Solution:
             csum += rsum
             rval += rsum
         self.res = max(self.res, csum)
-        print(root.val, csum, lsum, rsum, max(lval, rval)  )
         
-        # 1 4 3 -3 4
         return max(lval, rval) 
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
         self.res = float('-inf')
