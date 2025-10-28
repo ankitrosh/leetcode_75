@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ankitrosh/leetcode_75/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ankitrosh/leetcode_75/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ankitrosh/leetcode_75/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ankitrosh/leetcode_75/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0662-maximum-width-of-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/ankitrosh/leetcode_75/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ankitrosh/leetcode_75/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ankitrosh/leetcode_75/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ankitrosh/leetcode_75/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/ankitrosh/leetcode_75/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ankitrosh/leetcode_75/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0662-maximum-width-of-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/ankitrosh/leetcode_75/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
