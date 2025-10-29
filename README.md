@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankitrosh/leetcode_75/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ankitrosh/leetcode_75/tree/master/0014-longest-common-prefix) |
+| [0200-number-of-islands](https://github.com/ankitrosh/leetcode_75/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitrosh/leetcode_75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ankitrosh/leetcode_75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ankitrosh/leetcode_75/tree/master/0283-move-zeroes) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankitrosh/leetcode_75/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitrosh/leetcode_75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankitrosh/leetcode_75/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ankitrosh/leetcode_75/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ankitrosh/leetcode_75/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/ankitrosh/leetcode_75/tree/master/0399-evaluate-division) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankitrosh/leetcode_75/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ankitrosh/leetcode_75/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ankitrosh/leetcode_75/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/ankitrosh/leetcode_75/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ankitrosh/leetcode_75/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0662-maximum-width-of-binary-tree) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ankitrosh/leetcode_75/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/ankitrosh/leetcode_75/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ankitrosh/leetcode_75/tree/master/0547-number-of-provinces) |
 ## Shortest Path
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ankitrosh/leetcode_75/tree/master/0257-binary-tree-paths) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ankitrosh/leetcode_75/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
