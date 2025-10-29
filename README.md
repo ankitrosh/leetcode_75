@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ankitrosh/leetcode_75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ankitrosh/leetcode_75/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/ankitrosh/leetcode_75/tree/master/0399-evaluate-division) |
+| [0542-01-matrix](https://github.com/ankitrosh/leetcode_75/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/ankitrosh/leetcode_75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitrosh/leetcode_75/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ankitrosh/leetcode_75/tree/master/0724-find-pivot-index) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankitrosh/leetcode_75/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/ankitrosh/leetcode_75/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/ankitrosh/leetcode_75/tree/master/0542-01-matrix) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankitrosh/leetcode_75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ankitrosh/leetcode_75/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ankitrosh/leetcode_75/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/ankitrosh/leetcode_75/tree/master/0399-evaluate-division) |
+| [0542-01-matrix](https://github.com/ankitrosh/leetcode_75/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ankitrosh/leetcode_75/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ankitrosh/leetcode_75/tree/master/0733-flood-fill) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ankitrosh/leetcode_75/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ankitrosh/leetcode_75/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ankitrosh/leetcode_75/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ankitrosh/leetcode_75/tree/master/1036-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ankitrosh/leetcode_75/tree/master/1663-detect-cycles-in-2d-grid) |
