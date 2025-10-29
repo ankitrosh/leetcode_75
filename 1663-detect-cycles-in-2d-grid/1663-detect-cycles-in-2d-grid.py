@@ -11,7 +11,6 @@ class Solution:
             vis.append(lvl)
 
         def dfs(grid, vis, i, j, pi, pj, curr_val):
-            print(i, j, pi, pj)
             vis[i][j] = 1
             n = len(grid)
             m = len(grid[0])
@@ -57,7 +56,6 @@ class Solution:
             for j in range(m):
                
                 if vis[i][j] == 0:
-                    print("================= ", i, j)
                     if dfs(grid, vis, i, j, -1, -1, grid[i][j]):
                         return True
         
