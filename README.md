@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ankitrosh/leetcode_75/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ankitrosh/leetcode_75/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/ankitrosh/leetcode_75/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/ankitrosh/leetcode_75/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/ankitrosh/leetcode_75/tree/master/1073-number-of-enclaves) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ankitrosh/leetcode_75/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ankitrosh/leetcode_75/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/ankitrosh/leetcode_75/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/ankitrosh/leetcode_75/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ankitrosh/leetcode_75/tree/master/1036-rotting-oranges) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ankitrosh/leetcode_75/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ankitrosh/leetcode_75/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ankitrosh/leetcode_75/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/ankitrosh/leetcode_75/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/ankitrosh/leetcode_75/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ankitrosh/leetcode_75/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
@@ -292,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ankitrosh/leetcode_75/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ankitrosh/leetcode_75/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ankitrosh/leetcode_75/tree/master/1663-detect-cycles-in-2d-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ankitrosh/leetcode_75/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
