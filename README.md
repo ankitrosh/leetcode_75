@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankitrosh/leetcode_75/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ankitrosh/leetcode_75/tree/master/0020-valid-parentheses) |
+| [0127-word-ladder](https://github.com/ankitrosh/leetcode_75/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/ankitrosh/leetcode_75/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ankitrosh/leetcode_75/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitrosh/leetcode_75/tree/master/0345-reverse-vowels-of-a-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ankitrosh/leetcode_75/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/ankitrosh/leetcode_75/tree/master/0242-valid-anagram) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitrosh/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankitrosh/leetcode_75/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/ankitrosh/leetcode_75/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ankitrosh/leetcode_75/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ankitrosh/leetcode_75/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ankitrosh/leetcode_75/tree/master/0200-number-of-islands) |
