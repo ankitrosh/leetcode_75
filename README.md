@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ankitrosh/leetcode_75/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitrosh/leetcode_75/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/ankitrosh/leetcode_75/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ankitrosh/leetcode_75/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankitrosh/leetcode_75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ankitrosh/leetcode_75/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitrosh/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ankitrosh/leetcode_75/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ankitrosh/leetcode_75/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ankitrosh/leetcode_75/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ankitrosh/leetcode_75/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ankitrosh/leetcode_75/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Binary Search Tree
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ankitrosh/leetcode_75/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ankitrosh/leetcode_75/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ankitrosh/leetcode_75/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ankitrosh/leetcode_75/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ankitrosh/leetcode_75/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Topological Sort
 |  |
