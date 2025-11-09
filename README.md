@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/ankitrosh/leetcode_75/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitrosh/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ankitrosh/leetcode_75/tree/master/1833-find-the-highest-altitude) |
+| [2183-minimum-operations-to-convert-number](https://github.com/ankitrosh/leetcode_75/tree/master/2183-minimum-operations-to-convert-number) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ankitrosh/leetcode_75/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ankitrosh/leetcode_75/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/ankitrosh/leetcode_75/tree/master/1753-path-with-minimum-effort) |
+| [2183-minimum-operations-to-convert-number](https://github.com/ankitrosh/leetcode_75/tree/master/2183-minimum-operations-to-convert-number) |
 ## Binary Search Tree
 |  |
 | ------- |
