@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ankitrosh/leetcode_75/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/ankitrosh/leetcode_75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitrosh/leetcode_75/tree/master/0643-maximum-average-subarray-i) |
+| [0721-accounts-merge](https://github.com/ankitrosh/leetcode_75/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/ankitrosh/leetcode_75/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ankitrosh/leetcode_75/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ankitrosh/leetcode_75/tree/master/0735-asteroid-collision) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ankitrosh/leetcode_75/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/ankitrosh/leetcode_75/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/ankitrosh/leetcode_75/tree/master/0649-dota2-senate) |
+| [0721-accounts-merge](https://github.com/ankitrosh/leetcode_75/tree/master/0721-accounts-merge) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitrosh/leetcode_75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ankitrosh/leetcode_75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/ankitrosh/leetcode_75/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/ankitrosh/leetcode_75/tree/master/0242-valid-anagram) |
+| [0721-accounts-merge](https://github.com/ankitrosh/leetcode_75/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitrosh/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ankitrosh/leetcode_75/tree/master/2413-smallest-number-in-infinite-set) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitrosh/leetcode_75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ankitrosh/leetcode_75/tree/master/0242-valid-anagram) |
+| [0721-accounts-merge](https://github.com/ankitrosh/leetcode_75/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitrosh/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ankitrosh/leetcode_75/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/ankitrosh/leetcode_75/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ankitrosh/leetcode_75/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ankitrosh/leetcode_75/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankitrosh/leetcode_75/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -239,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ankitrosh/leetcode_75/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ankitrosh/leetcode_75/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitrosh/leetcode_75/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/ankitrosh/leetcode_75/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ankitrosh/leetcode_75/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ankitrosh/leetcode_75/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankitrosh/leetcode_75/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -281,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ankitrosh/leetcode_75/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/ankitrosh/leetcode_75/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ankitrosh/leetcode_75/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/ankitrosh/leetcode_75/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/ankitrosh/leetcode_75/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ankitrosh/leetcode_75/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ankitrosh/leetcode_75/tree/master/1442-number-of-operations-to-make-network-connected) |
