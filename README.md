@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitrosh/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ankitrosh/leetcode_75/tree/master/1833-find-the-highest-altitude) |
 | [2183-minimum-operations-to-convert-number](https://github.com/ankitrosh/leetcode_75/tree/master/2183-minimum-operations-to-convert-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ankitrosh/leetcode_75/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitrosh/leetcode_75/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ankitrosh/leetcode_75/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Prefix Sum
 |  |
 | ------- |
