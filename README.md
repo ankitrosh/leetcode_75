@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ankitrosh/leetcode_75/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ankitrosh/leetcode_75/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ankitrosh/leetcode_75/tree/master/0735-asteroid-collision) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ankitrosh/leetcode_75/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/ankitrosh/leetcode_75/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitrosh/leetcode_75/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/ankitrosh/leetcode_75/tree/master/1073-number-of-enclaves) |
@@ -348,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ankitrosh/leetcode_75/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ankitrosh/leetcode_75/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankitrosh/leetcode_75/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ankitrosh/leetcode_75/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
